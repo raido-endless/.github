@@ -1,5 +1,5 @@
 # Raido ⚔️🌐
-
+![Logo de Raido](raido-endless/.github/media/RaidoInsight.jpg)
 ¡Bienvenidos a Raido!
 by 
 - H Navarro
