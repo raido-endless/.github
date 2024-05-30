@@ -1,6 +1,10 @@
 # Raido ⚔️🌐
 
 ¡Bienvenidos a Raido!
+by 
+- H Navarro
+- Santiago Rocha
+- William Quintero
 
 ## Sobre Nosotros
 
