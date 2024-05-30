@@ -39,7 +39,3 @@ Sabemos que el camino no siempre es fácil, pero estamos comprometidos a perseve
 ## Únete a Nosotros 🤝
 
 Si compartes nuestra pasión por la tecnología y nuestros valores, ¡te invitamos a unirte a Raido! Juntos, podemos desarrollar proyectos increíbles y hacer una diferencia real en el mundo. Contáctanos para más información sobre nuestras iniciativas y cómo puedes ser parte de nuestra comunidad.
-
----
-
-¡Esperamos que este README.md te sea de ayuda! Si tienes alguna pregunta o necesitas más información, no dudes en decírmelo.
