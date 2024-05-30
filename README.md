@@ -1,6 +1,6 @@
 # Raido ⚔️🌐
 
-![Logo de Raido](raido-endless/.github/media/RaidoInsight.jpg)
+![Logo de Raido](raido-endless/.github/main/media/RaidoInsight.jpg)
 
 ¡Bienvenidos a Raido!
 by 
